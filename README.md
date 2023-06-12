@@ -10,18 +10,18 @@
 
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 0; padding: 20px;">
   <header>
-    <h1 style="color: #333;">Hi there! 👋</h1>
-    <h2 style="color: #333;">I'm <span style="color: #000;">Abid khan</span>, a passionate and detail-oriented web developer. Welcome to my GitHub profile!</h2>
+    <h1 style="color: #333;">Hi 👋 I'm Abid khan</h1>
+    <h2 style="color: #333;"> A passionate and detail-oriented web developer. Welcome to my GitHub profile!</h2>
   </header>
-
+<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
     <ul>
-      <li>Front-end: HTML5, CSS3, JavaScript, React.js, Vue.js</li>
+      <li>Front-end: HTML5, CSS3, JavaScript, React.js</li>
       <li>Back-end: Node.js, Express.js, MongoDB</li>
-      <li>UI/UX: Responsive Design, Wireframing, Prototyping</li>
+      <li>UI: Responsive Design, Wireframing</li>
       <li>Version Control: Git, GitHub</li>
-      <li>Tools: Visual Studio Code, Adobe Creative Suite</li>
+      <li>Tools: Visual Studio Code</li>
     </ul>
   </section>
  
