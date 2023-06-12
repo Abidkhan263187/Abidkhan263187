@@ -1,13 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
-</head>
-
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 0; padding: 20px;">
   <header>
     <h1 style="color: #333;">Hi 👋 I'm Abid khan</h1>
@@ -123,6 +114,5 @@
   </footer>
 </body>
 
-</html>
 
 
