@@ -18,9 +18,7 @@
  
   <section>
     <h3 style="color: #333;">🚀 What I'm Working On</h3>
-    <p>Currently, I'm honing my skills in React.js learning express exploring MongoDB and Mongoose Concept's. I'm also
-      collaborating with a team on a dynamic e-commerce website, where I'm responsible for implementing smooth user
-      interfaces and optimizing performance.</p>
+    <p>Currently, I'm honing my skills in React.js learning express exploring MongoDB and Mongoose Concept's.</p>
   </section>
 
 <!--   <section>
