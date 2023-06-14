@@ -37,18 +37,19 @@
       focusing on improving my knowledge of data visualization libraries and exploring TypeScript to enhance my
       projects' scalability.</p>
   </section>
+
+ <h3>Stats</h3>
   <p>
-  
- 📊<h3>GitHub Stats:</h3>
+    
 ![](https://github-readme-stats.vercel.app/api?username=abidkhan263187&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abidkhan263187&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abidkhan263187&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abidkhan263187&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</p>
+ </p>
 
   <section>
     <h3 style="color: #333;">👯 Let's Connect</h3>
