@@ -57,9 +57,11 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 
 </p>
+    
   </section>
+   &nbsp;
  <h2 align="left">Stats</h2>
-  &nbsp;
+ 
   <p>
     
 ![](https://github-readme-stats.vercel.app/api?username=abidkhan263187&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
