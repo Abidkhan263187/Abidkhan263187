@@ -35,7 +35,7 @@
   
   <section>
      <div> <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2></div>
-&nbsp;&nbsp;
+
 
 <p align="center" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/> &nbsp; &nbsp; 
