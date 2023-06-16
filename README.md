@@ -8,17 +8,10 @@
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
     <ul>
-      <li>Front-end: HTML5, CSS3, JavaScript, React.js, Redux.js</li>
-      <li>Back-end: Node.js, Express.js, MongoDB</li>
-      <li>UI: Responsive Design, Wireframing and Chakra UI</li>
-      <li>Version Control: Git, GitHub</li>
-      <li>Tools: Visual Studio Code</li>
+      <li> 💻 Front-end: HTML5, CSS3, JavaScript, React.js, Redux.js ,Chakra UI</li>
+      <li> 🌱 Back-end: Node.js, Express.js, MongoDB ,Mongoose</li>
+      <li> 🚀 Version Control: Git, GitHub,GitHub CLI</li>
     </ul>
-  </section>
- 
-  <section>
-    <h3 style="color: #333;">🚀 What I'm Working On</h3>
-    <p>Currently, I'm honing my skills in React.js learning express exploring MongoDB and Mongoose Concept's.</p>
   </section>
 
 <!--   <section>
@@ -95,16 +88,10 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=whit"/>
-  
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-
 </p>
-
 </p>
-
-
   <footer>
     <h2 align="center">Let's build something amazing together! 🚀</h2>
   </footer>
