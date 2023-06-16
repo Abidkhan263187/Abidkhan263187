@@ -34,10 +34,10 @@
   
   
   <section>
-     <div> <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2></div>
+     <div> <h2 align="left">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2></div>
 
 
-<p align="center" >
+<p align="left" >
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/> &nbsp; &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </p>
     
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=whit"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,7 +58,7 @@
 
 </p>
   </section>
- <h2 align="center">Stats</h2>
+ <h2 align="left">Stats</h2>
   &nbsp;
   <p>
     
