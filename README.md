@@ -4,6 +4,7 @@
     <h1 style="color: #333;">Hi 👋 I'm Abid khan</h1>
     <h2 style="color: #333;"> A passionate and detail-oriented web developer. Welcome to my GitHub profile!</h2>
   </header>
+  <h2>Portfolio : <a href="https://abidkhan263187.github.io/"> Click here to view</a> </h2>
 <img align="right" height=300 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
