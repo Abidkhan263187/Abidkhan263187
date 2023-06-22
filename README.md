@@ -3,9 +3,12 @@
   <header>
     <h1 style="color: #333;">Hi 👋 I'm Abid khan</h1>
     <h2 style="color: #333;"> A passionate and detail-oriented web developer. Welcome to my GitHub profile!</h2>
-<!--       <p>Portfolio : <a href="https://abidkhan263187.github.io/"> https://abidkhan263187.github.io/</a> </p> -->
+   
   </header>
+     🚀 Portfolio : https://abidkhan263187.github.io/ 
+&nbsp;&nbsp;&nbsp;&nbsp;
 
+ - 📄 Know about me [Resume](https://drive.google.com/file/d/1TdpuWrgC7Yp_Wj06uhY7SqM5324FH2xt/view?usp=sharing)
 <img align="right" height=300 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
