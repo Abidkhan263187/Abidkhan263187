@@ -37,7 +37,7 @@
   </section>
   
   
-  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidkhan263187&label=Profile%20views&color=0e75b6&style=flat" alt="abidkhan263187" /> </p>
   <section>
      <div> <h2 align="left">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2></div>
 
