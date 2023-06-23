@@ -6,7 +6,7 @@
    
   </header>
      🚀 Portfolio : https://abidkhan263187.github.io/ 
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 
  - 📄 Know about me [Resume](https://drive.google.com/file/d/1TdpuWrgC7Yp_Wj06uhY7SqM5324FH2xt/view?usp=sharing)
 <img align="right" height=300 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
