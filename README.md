@@ -5,8 +5,9 @@
     <h2 style="color: #333;"> A passionate and detail-oriented web developer. Welcome to my GitHub profile!</h2>
    
   </header>
-  
-     🚀 Portfolio : https://abidkhan263187.github.io/ 
+    </header>
+    </br>
+     🚀 Portfolio :https://abidkhan263187.github.io/
 
 
  - 📄 Know about me [Resume](https://drive.google.com/file/d/15dmwPerQhTY1irSf03sbJTIP38XtMEIU/view?usp=sharing)
