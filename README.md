@@ -11,7 +11,7 @@
 
 
  - 📄 Know about me [Resume](https://drive.google.com/file/d/15dmwPerQhTY1irSf03sbJTIP38XtMEIU/view?usp=sharing)
-<img align="right" height=300 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
+<img align="right" height=300 width=450 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
     <ul>
