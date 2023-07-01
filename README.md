@@ -15,7 +15,7 @@
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
     <ul>
-      <li> 💻 Front-end: HTML5, CSS3, JavaScript, React.js, Redux.js ,Chakra</li>
+      <li> 💻 Front-end: HTML5, CSS3, JavaScript, React.js, Redux.js </li>
       <li> 🌱 Back-end: Node.js, Express.js, MongoDB ,Mongoose</li>
       <li> 🚀 Version Control: Git, GitHub,GitHub CLI</li>
     </ul>
