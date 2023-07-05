@@ -7,7 +7,7 @@
   </header>
     </header>
     </br>
-     🚀 Portfolio :https://abidkhan263187.github.io/
+     🚀 Portfolio :https://Abidkhan263187.github.io/
 
 
  - 📄 Know about me [Resume](https://drive.google.com/file/d/15dmwPerQhTY1irSf03sbJTIP38XtMEIU/view?usp=sharing)
