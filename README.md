@@ -21,7 +21,7 @@
     </ul>
   </section>
 
-<!--   <section>
+<!--  <section>
     <h3 style="color: #333;">🔭 Projects</h3>
     <ul>
       <li><a href="project1-link">Project 1</a> - Brief description of the project and your role.</li>
