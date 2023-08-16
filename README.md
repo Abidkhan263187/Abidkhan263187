@@ -10,14 +10,14 @@
      🚀 Portfolio :https://Abidkhan263187.github.io/
 
 
- - 📄 Know about me [Resume](https://drive.google.com/file/d/1HQ2cEtviE78YNWP01u2UplaIeY5bCARE/view?usp=drive_link)
+ - 📄 Know about me [Resume](https://drive.google.com/file/d/1iL_TcV9MNSUy0C35Dv9gTDRcB-vkCGCe/view?usp=drive_link)
 <img align="right" height=300 width=450 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
     <ul>
       <li> 💻 Front-end: HTML5, CSS3, JavaScript, React.js, Redux.js </li>
-      <li> 🌱 Back-end: Node.js, Express.js, MongoDB ,Mongoose</li>
-      <li> 🚀 Version Control: Git, GitHub,GitHub CLI</li>
+      <li> 🌱 Back-end: Node.js, Express.js, MongoDB,Mongoose</li>
+      <li> 🚀 Version Control: Git, GitHub, GitHub CLI</li>
     </ul>
   </section>
 
