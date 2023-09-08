@@ -10,7 +10,7 @@
      🚀 Portfolio :https://Abidkhan263187.github.io/
 
 
- - 📄 Know about me [Resume](https://drive.google.com/file/d/1521iQqATtifgol-pjiwWE_LP9Bw0OoY4/view?usp=drive_link)
+ - 📄 Know about me [Resume](https://drive.google.com/file/d/1tnkORlFHiOYmP2MzsdNSs0MbvB2m7-Mf/view?usp=drive_link)
 <img align="right" height=300 width=450 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
