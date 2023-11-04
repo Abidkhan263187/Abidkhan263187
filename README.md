@@ -10,7 +10,7 @@
      🚀 Portfolio :https://Abidkhan263187.github.io/
 
 
- - 📄 Know about me [Resume](https://drive.google.com/file/d/1tnkORlFHiOYmP2MzsdNSs0MbvB2m7-Mf/view?usp=drive_link)
+ - 📄 Know about me [Resume](https://drive.google.com/file/d/1GkCTN-NMVmHpmkvmPvfEm95oUtg-2v8P/view?usp=drive_link)
 <img align="right" height=350 width=450 src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
