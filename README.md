@@ -33,7 +33,7 @@
 
   <section>
     <h3 style="color: #333;">🌱 Learning Goals</h3>
-    <p>I believe in continuous learning, and I'm always seeking opportunities to expand my skillset. Currently, I'm
+    <p>I believe in continuous learning, and I'm always seeking opportunities to expand my skill set. Currently, I'm
       focusing on improving my knowledge of data visualization libraries and exploring TypeScript to enhance my
       projects' scalability.</p>
   </section>
