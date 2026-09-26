@@ -10,7 +10,7 @@
      🚀 Portfolio :https://abidkhann.netlify.app
 
 
- - 📄 Know about me [Resume](https://drive.google.com/file/d/1hIj2JhNdzcKDvJleuIV84Xtz-eihGoao/view?usp=sharing)
+ - 📄 Know about me [Resume](https://drive.google.com/file/d/1HAbdJ68LS6S1OQNeTylzEhuQ-T2mK-j8/view?usp=sharing)
 <img align="right" height=350 width=450 src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
   <section>
     <h3 style="color: #333;">💻 Technologies and Skills</h3>
